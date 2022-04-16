@@ -1,0 +1,42 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h1
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+.mario
+{
+    width: 100%;
+}
+
+#start
+{
+    font-size: 25px;
+}
+
+#status
+{
+    font-size: 25px;
+}
+
+.modal-dialoge
+{
+    width: 90%;
+}
+
+.image_instruction
+{
+    width: 45%;
+    display: inline;
+}
